@@ -1,8 +1,8 @@
 {
-  "name": "holyunblocker",
+  "name": "jollyunbl0ckr",
   "version": "6.9.3",
   "repository": "https://github.com/QuiteAFancyEmerald/Holy-Unblocker",
-  "description": "Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup.",
+  "description": "jolly Unbl0ckr LTS is a web pr0xy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup.",
   "main": "backend.js",
   "engines": {
     "node": "20.x"
@@ -24,9 +24,9 @@
     "deployment": "npm install && npm run build && node backend.js"
   },
   "keywords": [
-    "proxy",
+    "pr0xy",
     "node.js",
-    "unblocker"
+    "unbl0ckr"
   ],
   "author": "Titanium Network",
   "license": "GNU AFFERO",
