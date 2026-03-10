@@ -314,7 +314,7 @@ xx                                                  xx
       return uvTestPassed;
     };
 
-    // Run tests for Rammerhead and Ultraviolet.
+    // Run tests for Rammerhead and Ultavi0let.
     await page.goto('http://localhost:8080/');
     const rammerheadPassed = await testRammerhead();
     const ultravioletPassed = await testUltraviolet();
